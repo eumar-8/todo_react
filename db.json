@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Setup Server",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Start Server",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Conect to Server",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Setup fetch",
+      "isComplete": false
+    },
+    {
+      "id": 57928,
+      "name": "131321",
+      "isComplete": false
+    },
+    {
+      "id": 84688,
+      "name": "2131223",
+      "isComplete": false
+    },
+    {
+      "id": 12975,
+      "name": "hola",
+      "isComplete": false
+    },
+    {
+      "id": 63852,
+      "name": "hola",
+      "isComplete": false
+    },
+    {
+      "id": 29289,
+      "name": "holaaa",
+      "isComplete": false
+    },
+    {
+      "id": 97521,
+      "name": "miratee",
+      "isComplete": false
+    },
+    {
+      "id": 30686,
+      "name": "papitp rico",
+      "isComplete": false
+    }
+  ]
+}
